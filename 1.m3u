@@ -1,12 +1,8 @@
 #EXTM3U
 
-#EXTINF:0, М_а_ч
-http://5.188.6.204/158/749b8b56db0c20e98190/
-#EXTINF:0, B_o_e_c
-http://5.188.6.204/180/749b8b56db0c20e98190/
-#EXTINF:0, B_o_e_c Infoline Ltd., Россия, Тольятти
+#EXTINF:0, B_o_e_c Тольятти
 http://178.163.4.175:4022/udp/234.0.0.6:2000
-#EXTINF:0, B_o_e_c JSC Post Ltd Network, Россия, Пятигорск
+#EXTINF:0, B_o_e_c Пятигорск
 http://77.75.15.115:81/udp/239.195.1.110:1234
 #EXTINF:0, U_D_A_R (1080p) [Geo-blocked]
 https://strm.yandex.ru/kal/udar/udar0.m3u8
