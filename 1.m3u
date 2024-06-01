@@ -3,3 +3,5 @@
 https://strm.yandex.ru/kal/udar/udar0.m3u8
 #EXTINF:0, Матч! Боец
 http://31.148.48.15/Match_Boec/mono.m3u8
+#EXTINF:0, Матч! HD
+http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
