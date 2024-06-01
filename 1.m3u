@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, U_D_A_R (1080p) [Geo-blocked]
+#EXTINF:0, Удар
 https://strm.yandex.ru/kal/udar/udar0.m3u8
-#EXTINF:0, B_o_e_c sport.simdif.com
+#EXTINF:0, Матч!_Боец
 http://31.148.48.15/Match_Boec/mono.m3u8
 #EXTINF:0, B_o_e_c Тольятти vip-***.online
 http://178.163.4.175:4022/udp/234.0.0.6:2000
