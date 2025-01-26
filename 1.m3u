@@ -12,7 +12,7 @@ http://s1.merlive.am/match-boec/index.m3u8
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1,FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 tvg-id="m1global",MMA-TV
+#EXTINF:-1 tvg-name="Канал 1",MMA-TV
 http://213.226.137.140:81/tl/l404/mpegts
 #EXTINF:-1,Polsat Sport Fight
 http://185.236.229.62:9981/play/a06l
