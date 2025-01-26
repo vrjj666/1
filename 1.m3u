@@ -4,7 +4,7 @@
 http://live.admuspeh.my/8319/index.m3u8?token=test
 #EXTINF:-1, Матч! Боец
 http://31.148.48.15/Match_Boec/mono.m3u8
-#EXTINF:-1, tvg-name="Матч! Боец",Канал 1
+#EXTINF:-1 tvg-name="Матч! Боец", Канал 1
 http://87.120.142.11:18000/Match!
 #EXTINF:-1, Матч! Боец
 http://s1.merlive.am/match-boec/index.m3u8
