@@ -2,11 +2,11 @@
 #PLAYLIST:Бойня
 #EXTINF:-1,Удар
 http://live.admuspeh.my/8319/index.m3u8?token=test
-#EXTINF:-1,Матч! Боец
+#EXTINF:-1 tvg-name="Матч! Боец",Матч! Боец 1
 http://31.148.48.15/Match_Boec/mono.m3u8
-#EXTINF:-1 tvg-name="Матч! Боец",Канал 1
+#EXTINF:-1 tvg-name="Матч! Боец",Матч! Боец 2
 http://87.120.142.11:18000/Match!
-#EXTINF:-1,Матч! Боец
+#EXTINF:-1 tvg-name="Матч! Боец",Матч! Боец 3
 http://s1.merlive.am/match-boec/index.m3u8
 #EXTINF:-1,Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
