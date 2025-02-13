@@ -8,6 +8,8 @@ http://31.148.48.15/Match_Boec/mono.m3u8
 http://87.120.142.11:18000/Match!
 #EXTINF:-1 tvg-name="Матч! Боец",Матч! Боец 3
 http://s1.merlive.am/match-boec/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Боец",Матч! Боец 4
+http://178.163.36.149:4022/udp/234.0.0.6:2000
 #EXTINF:-1,Бокс ТВ HD
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1,FightBox
