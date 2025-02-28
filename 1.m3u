@@ -2,6 +2,8 @@
 #PLAYLIST:Бойня
 #EXTINF:-1,Матч ТВ
 http://ip1.orgip.net/207/video.m3u8?token=M4f082ab4c
+#EXTINF:-1,MMA-TV
+http://ip1.orgip.net/223/video.m3u8?token=M4f082ab4c
 #EXTINF:-1,Удар
 http://ip1.orgip.net/227/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 tvg-name="Матч! Боец",Матч! Боец Новый
@@ -20,7 +22,5 @@ http://95.29.177.228:4022/udp/233.33.210.19:5050
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1,FightBox
 http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1,MMA-TV
-http://ip1.orgip.net/223/video.m3u8?token=M4f082ab4c
 #EXTINF:-1,Polsat Sport Fight
 http://185.236.229.62:9981/play/a06l
