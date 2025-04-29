@@ -2,6 +2,8 @@
 #PLAYLIST:Бойня
 #EXTINF:-1 tvg-name="M-1 Global",M1 MMA-TV
 http:\\stream-msk-10.ott.tricolor.tv\dtv\id524_MSKSG-PVR-1--M1_Global\03\plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NjQyMTk5OSwiaHdpZCI6IjNmNmNlNzQ5YzdiZTg3NWI2Y2JjMDdmMTBiODI4ZjY4NzNlY2UzNzczMGM0ZmYzNjVkZDU4YWUzOGY4MWU4ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1ODE3MTk5LCJzZXNzaW9uX2lkIjoiYjBmMDZlNmIyN2IwMDI2YTg1ODQ5Y2UwYmU1ODhiM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oWjtAhAIKUtkUUAqCvrgD5WEAhlkAMi6muPoM0OI_i4
+#EXTINF:-1 tvg-name="M-1 Global",M1 MMA-TV HD
+http://95.142.88.250/MMA-TV.com/index.m3u8
 #EXTINF:-1,---Удар
 https://server3.musical.uz/udar/tracks-v1a1/mono.m3u8?remote=176.114.191.107&token=3776f66170a871d759fc50a249c25fd76ce11c50-edeb412ee56ceceb0fc425c665cbaf59-1745867596-1745856796
 #EXTINF:-1 tvg-name="Матч! Боец",---Матч! Боец 1
