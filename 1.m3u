@@ -1,17 +1,17 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #PLAYLIST:Бойня
+
 #EXTINF:-1 tvg-name="M-1 Global",M1 MMA-TV
 http://stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NjQyMTk5OSwiaHdpZCI6IjNmNmNlNzQ5YzdiZTg3NWI2Y2JjMDdmMTBiODI4ZjY4NzNlY2UzNzczMGM0ZmYzNjVkZDU4YWUzOGY4MWU4ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1ODE3MTk5LCJzZXNzaW9uX2lkIjoiYjBmMDZlNmIyN2IwMDI2YTg1ODQ5Y2UwYmU1ODhiM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oWjtAhAIKUtkUUAqCvrgD5WEAhlkAMi6muPoM0OI_i4
-#EXTINF:-1 tvg-name="M-1 Global",M1 MMA-TV HD
-http://95.142.88.250/MMA-TV.com/index.m3u8
+
 #EXTINF:-1,Удар
 https://tv.movielab.pro/4111/video.m3u8?token=e4cdd8e5d6a7b8ff35d320868f4895eeb69711e9-1617aaae539a3aaef92d0d0e623f9d0c-1746082514-1745996114
+
 #EXTINF:-1 tvg-name="Матч! Боец",Матч! Боец 1
 http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYwODczODAsImlhdCI6MTc0NjAwMDk4MCwiY2lkIjo2LCJ1aWQiOjkxMjczMTk4MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.glD74ydvNNx9q-QRzkDsgdydq064DsmzguQsfW5yjFc&offset=3
-#EXTINF:-1 tvg-name="Матч! Боец",Матч! Боец 2
-http://87.120.142.11:18000/Match!
-http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDYwODczODAsImlhdCI6MTc0NjAwMDk4MCwiY2lkIjo2LCJ1aWQiOjkxMjczMTk4MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.glD74ydvNNx9q-QRzkDsgdydq064DsmzguQsfW5yjFc&offset=3
+
 #EXTINF:-1 tvg-name="Матч! Боец",Матч! Боец 3
 http://87.120.142.11:18000/Match!
+
 #EXTINF:-1 tvg-name="UFC",UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
