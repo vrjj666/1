@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#PLAYLIST:Матч! Боец
+#PLAYLIST:Матч!Боец
 
 #EXTINF:-1 tvg-name="Матч! Боец",Матч! Боец 1
 http://31.148.48.15/Match_Boec/mono.m3u8
